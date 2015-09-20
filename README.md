@@ -1,5 +1,6 @@
 # Display-a-sorted-list-of-student-scores
-Console
+Console:
+
 Welcome to the Student Scores Application.
 
 Enter number of students to enter: 4
