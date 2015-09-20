@@ -27,9 +27,11 @@ Michaels, Mike: 93
 Steelman, Andrea: 95
 
 Operation:
+
 This application accepts the last name, first name, and score for one or more students and stores the results in an array. Then, it prints the students and their scores in alphabetical order by last name.
 
 Specifications:
+
 The program should implement a class named Student that stores the last name, first name, and score for each student. 
 This class should implement the IComparable interface so the students can be sorted by name. 
 If two students have the same last name, the first name should be used to determine the final sort order.
